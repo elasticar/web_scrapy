@@ -1,0 +1,8 @@
+test.txt
+.idea/
+quotes/images/
+quotes/spiders/config/config.py
+quotes/__pycache__/
+quotes/spiders/__pycache__/
+quotes/spiders/managers/__pycache__/
+quotes/spiders/config/__pycache__/

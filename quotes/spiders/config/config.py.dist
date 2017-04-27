@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+
+config_allowed_domains=[""]
+
+config_start_urls=['']
+
+config_main_url = ''
+
+config_spider1_name = ''
+
+config_host=''
+
+config_user=''
+
+config_passwd=''
+
+config_db=''
